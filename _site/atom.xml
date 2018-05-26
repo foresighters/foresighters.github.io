@@ -4,7 +4,7 @@
  <title>Foresight</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <id>http://localhost:4000</id>
- <updated>2018-05-26T23:25:28+09:00</updated>
+ <updated>2018-05-26T23:28:29+09:00</updated>
  <author>
    <name>Foresighters</name>
    <uri>https://foresighters.github.io</uri>
@@ -14,11 +14,11 @@
  
 
  <entry>
-   <title>Test</title>
-   <link href="http://localhost:4000/test"/>
-   <id>http://localhost:4000/test</id>
+   <title>Foresights</title>
+   <link href="http://localhost:4000/Foresights"/>
+   <id>http://localhost:4000/Foresights</id>
    <updated>2018-05-25T00:00:00+09:00</updated>
-   <content type="html">&lt;h1 id=&quot;foresighters&quot;&gt;Foresighters&lt;/h1&gt;
+   <content type="html">&lt;h1 id=&quot;foresight&quot;&gt;Foresight&lt;/h1&gt;
 
 &lt;p&gt;We share foresight by analyzing data.&lt;/p&gt;
 </content>
