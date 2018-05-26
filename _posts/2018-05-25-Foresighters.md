@@ -1,3 +1,3 @@
 # About Foresighters.
 
-We share foresight by analyzing data.
+We share foresight acquired by combining human knowledge and data analysis.
