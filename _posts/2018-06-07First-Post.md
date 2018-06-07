@@ -24,7 +24,7 @@
 
 
 <2014 Seoul Prior:yes - weght:no>
-<img src="C:\Users\injatist\Desktop\Foresight\foresighters.github.io\img\2014 Seoul\6.2014_seoul_prior_party_info.png">
+<img src="C:\Users\injatist\Desktop\Foresight\foresighters.github.io\img\2014 Seoul\6. 2014_seoul_prior_party_info.png">
 
 <img src="C:\Users\injatist\Desktop\Foresight\foresighters.github.io\img\2014 Seoul\7. 2014_seoul_prior_party_info(2).png">
 
