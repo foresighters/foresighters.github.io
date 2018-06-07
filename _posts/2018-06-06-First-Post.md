@@ -1,5 +1,10 @@
-# 1. 안녕하세요.
+## 2018 지방선거 결과 예측(경기, 경남지사)
 
-###### HELLO WORLD.
-- 반가워요
+###### Purpose
+-
 - 2018.06.06
+
+
+
+
+<img C:\Users\injatist\Desktop\여론조사 최종\2018 경기\2018_Kyunggi_trend.png>
