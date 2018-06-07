@@ -33,17 +33,16 @@
 <img src="C:\Users\injatist\Desktop\Foresight\foresighters.github.io\img\9. 2014_seoul_prior_party_info_weight_recent(2).png">
 
 
-
-
 ###### 2014 부산시장 선거(서병수 vs 오거돈)
 - 분석자료: 중앙선거여론조사위원회 등록된 여론조사결과 수집,
 - Prior: 선거 유세 시작 전 정당지지도, Weight: 선거일 기준 '7/(선거일 – 현재일수)' 계산
 
 <2014 Pusan Trend>
-
+<img src="C:\Users\injatist\Desktop\Foresight\foresighters.github.io\img\2014 Pusan\1. 2014_pusan_trend.png">
 
 <2014 Pusan Prior:no - weght:yes>
-
+<img src="C:\Users\injatist\Desktop\Foresight\foresighters.github.io\img\2014 Pusan\2. 2014_pusan_no_prior_info(2).png">
+<img src="C:\Users\injatist\Desktop\Foresight\foresighters.github.io\img\2014 Pusan\3. 2014_pusan_prior_no_info.png">
 
 
 
