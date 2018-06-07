@@ -7,4 +7,4 @@
 
 
 
-<img C:\Users\injatist\Desktop\여론조사 최종\2018 경기\2018_Kyunggi_trend.png>
+<img src:"C:\Users\injatist\Desktop\여론조사 최종\2018 경기\2018_Kyunggi_trend.png">
