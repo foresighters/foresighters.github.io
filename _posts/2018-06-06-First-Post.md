@@ -9,8 +9,10 @@
 - Prior: 선거 유세 시작 전 정당지지도, Weight: 선거일 기준 '7/(선거일 – 현재일수)' 계산
 
 
-<2014 Seoul Trend>
-<img src="C:\Users\injatist\Desktop\Foresight\foresighters.github.io\img\2014 Seoul\1. 2014_seoul_trend.png">
+![2014 Seoul Trend](img\2014 Seoul\2. 2014_seoul_prior_no_info.png)
+
+![!before
+]<insert-img src="C:\Users\injatist\Desktop\Foresight\foresighters.github.io\img\2014 Seoul\1. 2014_seoul_trend.png">
 
 
 <2014 Seoul Prior:no - weght:no>
