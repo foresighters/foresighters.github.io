@@ -3,28 +3,4 @@ layout: page
 title: About Foresight
 description: This page describes Foresight.
 ---
-## About
-Monochrome is a minimal, responsive theme created for Jekyll. The goal of Monochrome is to provide a ready to use, plug and play theme for those who want to set up a blog, and focus solely on the content.
-
-## Features
-
-- Completely responsive and mobile first
-- Clean SEO friendly URLs, auto-generated from post title (no messy dates in the url)
-- SEO title/description integration
-- Sitemap ready
-- Easy customization for header, footer, navigation links, colors, favicon etc
-- Default Monochrome Color Palette - black, white, greys
-
-### Setup
-
-Monochrome may be installed by simply downloading the .zip folder from the [repository on Github](https://github.com/thereviewindex/monochrome/archive/master.zip).
-
-After extracting the content from the folder into the selected directory, you can type ``jekyll serve`` from the terminal, than open your browser to ``0.0.0.0:4000/monochrome/`` and you will find it there.
-
-Additionally it is possible to fork the repository and use Github Pages as hosting. By following this way it will be enough to change the ``baseurl`` value into the ``_config.yml`` file, with the directory name of your project (for example /blog) or simply with a "/" (slash) if you want install Monochrome in the root.
-
-
-
-For further details on Monochrome, please visit the [repository on Github](https://github.com/thereviewindex/monochrome/).
-
-![Monochrome](img/monochrome01.png "monochrome")
+Foresight는 데이터 분석을 통해서 얻은 Foresight를 공유하는 블로그입니다. 블로그에 게시되는 프로젝트는 주로 다음 [Github](https://github.com/foresighters/project-storage)에 분석 결과가 있습니다. 문의사항이 있으시다면 foresightersdev@gmail.com으로 연락해주세요.
