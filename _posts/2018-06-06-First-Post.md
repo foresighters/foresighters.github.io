@@ -9,31 +9,26 @@
 - Prior: 선거 유세 시작 전 정당지지도, Weight: 선거일 기준 '7/(선거일 – 현재일수)' 계산
 
 
-![2014 Seoul Trend](img\2014 Seoul\2. 2014_seoul_prior_no_info.png)
-
-![!before
-]<insert-img src="C:\Users\injatist\Desktop\Foresight\foresighters.github.io\img\2014 Seoul\1. 2014_seoul_trend.png">
-
+<2014 Seoul Trend>회 등록된 여론조사결과 수집
+- Prior: 선거 유세 시작
+![2014 Seoul 1](img\2014 Seoul\1. 2014_seoul_trend.png)
 
 <2014 Seoul Prior:no - weght:no>
-<img src="C:\Users\injatist\Desktop\Foresight\foresighters.github.io\img\2014 Seoul\2. 2014_seoul_prior_no_info.png">
-
-<img src="C:\Users\injatist\Desktop\Foresight\foresighters.github.io\img\\2014 Seoul\3. 2014_seoul_prior_no_info(2).png">
+![2014 Seoul 2](img\2014 Seoul\2. 2014_seoul_prior_no_info.png)
+![2014 Seoul 3](img\2014 Seoul\2. 2014_seoul_prior_no_info.png)
 
 <2014 Seoul Prior:no - weght:yes>
-<img src="C:\Users\injatist\Desktop\Foresight\foresighters.github.io\img\2014 Seoul\4. 2014_seoul_prior_no_info_weight_recent.png">
-<img src="C:\Users\injatist\Desktop\Foresight\foresighters.github.io\img\2014 Seoul\5. 2014_seoul_prior_no_info_weight_recent(2).png">
-
+![2014 Seoul 4](img\2014 Seoul\4. 2014_seoul_prior_no_info_weight_recent.png)
+![2014 Seoul 5](img\2014 Seoul\5. 2014_seoul_prior_no_info_weight_recent2.png)
 
 <2014 Seoul Prior:yes - weght:no>
-<img src="C:\Users\injatist\Desktop\Foresight\foresighters.github.io\img\2014 Seoul\6. 2014_seoul_prior_party_info.png">
-
-<img src="C:\Users\injatist\Desktop\Foresight\foresighters.github.io\img\2014 Seoul\7. 2014_seoul_prior_party_info(2).png">
+![2014 Seoul 6](img\2014 Seoul\6. 2014_seoul_prior_party_info.png)
+![2014 Seoul 7](img\2014 Seoul\7. 2014_seoul_prior_party_info2.png)
 
 <2014 Seoul Prior:yes - weght:yes>
-<img src="C:\Users\injatist\Desktop\Foresight\foresighters.github.io\img\2014 Seoul\8. 2014_seoul_prior_party_info_recent_weight.png">
+![2014 Seoul 8](img\2014 Seoul\8. 2014_seoul_prior_party_info_recent_weight.png)
+![2014 Seoul 9](img\2014 Seoul\9. 2014_seoul_prior_party_info_weight_recent(2.png)
 
-<img src="C:\Users\injatist\Desktop\Foresight\foresighters.github.io\img\2014 Seoul\9. 2014_seoul_prior_party_info_weight_recent(2).png">
 
 
 ###### 2014 부산시장 선거(서병수 vs 오거돈)
