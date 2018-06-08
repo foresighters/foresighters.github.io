@@ -9,7 +9,12 @@ layout: default
 		{{ content }}
 
 	</div>
-	{% if page.comments != false %}
-	  {% include disqus_comments.html %}
-	{% endif %}
+	<div class="post-box">
+
+	</div>
+	<div class="post-comment">
+		{% if page.comments != false %}
+		  {% include disqus_comments.html %}
+		{% endif %}
+	</div>
 </article>
