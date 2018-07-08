@@ -9,4 +9,12 @@ layout: default
 		{{ content }}
 
 	</div>
+	<div class="margin-box">
+
+	</div>
+	<div class="post-comment">
+		{% if page.comments != false %}
+		  {% include disqus_comments.html %}
+		{% endif %}
+	</div>
 </article>
