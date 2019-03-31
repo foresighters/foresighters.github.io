@@ -1,0 +1,41 @@
+---
+title: 베이지안 활용 2019년 4.3. 보궐선거 예측
+description: 2019년 4월 3일 보궐선거 중 창원 성산 국회의원 및 경남 고성 국회의원을 Bayesian 통계를 활용해 결과를 예측합니다.
+header: 2019년 4.3. 보궐선거 예측
+---
+
+
+### Purpose
+- 여론조사의 편향성 문제를 완화시키는 데 효과적인 베이지안 통계학을 활용해 4.3 재보궐 선거 결과를 예측하고자 함
+
+
+### Analysis Process
+
+- Method: R의 MCMCpack 함수(MCmultinomdirichlet) 사용
+- data: 중앙선거여론조사위원회 등록된 여론조사결과 수집, 각 여론조사 내용은 중앙선거여론조사심의위원회 홈페이지 참조
+- Prior: 창원 성산 지역 대상 2018년 12월 1주차 정당 지지도, 통영 고성 지역 대상 2019년 3월 1일 정당 지지도
+- Weight: 선거일 기준 '7/(선거일 – 현재일수)' 계산, 선거일을 1로 하고, 앞서 실시된 여론조사의 가중치는 7/10, 7/12 등의 형식
+
+### Analysis Result_창원 성산
+![2019 sungsan](img\2019 by-election\2019 sungsan_plot.png)
+
+
+![2019 sungsan](img\2019 by-election\2019 sungsan_no_prior_diff.png)
+
+![2019 sungsan](img\2019 by-election\2019 sungsan_no_prior_diff.png)
+
+![2019 sungsan](img\2019 by-election\2019 sungsan_plot_compare_method.png)
+
+![2019 sungsan](img\2019 by-election\2019 sungsan_plot_prior_diff.png)
+
+### Analysis Result_통영 고성
+![2019 goseong](img\2019 by-election\2019 goseong_plot.png)
+
+![2019 goseong](img\2019 by-election\2019 goseong_no_prior_compare_method.png)
+![2019 goseong](img\2019 by-election\2019 goseong_no_prior_diff.png)
+
+![2019 goseong](img\2019 by-election\2019 goseong_prior_compare_method.png)
+![2019 goseong](img\2019 by-election\2019 goseong_prior_diff.png)
+
+
+### Conclusion
